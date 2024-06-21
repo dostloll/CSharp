@@ -21,7 +21,7 @@ namespace Inheritance{
         Car car = new Car{
             Brand = "Buggati",
             Year = 2024,
-            NumberOfDoors = 4
+            NumberOfDoors = 2
         };
 
         car.DisplayCarInfo();
